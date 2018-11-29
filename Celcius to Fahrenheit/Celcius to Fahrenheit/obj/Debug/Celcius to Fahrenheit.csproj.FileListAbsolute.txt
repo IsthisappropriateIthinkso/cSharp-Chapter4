@@ -1,0 +1,6 @@
+C:\Users\Adam Gibson\Desktop\cSharpChapter 3\Chapter 4\Celcius to Fahrenheit\Celcius to Fahrenheit\obj\Debug\Celcius to Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\Adam Gibson\Desktop\cSharpChapter 3\Chapter 4\Celcius to Fahrenheit\Celcius to Fahrenheit\bin\Debug\Celcius to Fahrenheit.exe.config
+C:\Users\Adam Gibson\Desktop\cSharpChapter 3\Chapter 4\Celcius to Fahrenheit\Celcius to Fahrenheit\bin\Debug\Celcius to Fahrenheit.exe
+C:\Users\Adam Gibson\Desktop\cSharpChapter 3\Chapter 4\Celcius to Fahrenheit\Celcius to Fahrenheit\bin\Debug\Celcius to Fahrenheit.pdb
+C:\Users\Adam Gibson\Desktop\cSharpChapter 3\Chapter 4\Celcius to Fahrenheit\Celcius to Fahrenheit\obj\Debug\Celcius to Fahrenheit.exe
+C:\Users\Adam Gibson\Desktop\cSharpChapter 3\Chapter 4\Celcius to Fahrenheit\Celcius to Fahrenheit\obj\Debug\Celcius to Fahrenheit.pdb
